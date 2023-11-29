@@ -1,0 +1,46 @@
+{
+
+    "inventario": {
+       "productos": {
+          "producto": [
+             {
+                "nombre": "Televisor",
+                "precio": "599.99€",
+                "fecha_ingreso": "2023-07-15",
+                "stock": "10",
+                "_codigo": "001",
+                "_categoria": "Electrónicos",
+                "color": ["negro","negro","azul","negro","blanco","blanco","negro","negro","blanco","negro"]
+             },
+             {
+                "nombre": "Camiseta",
+                "precio": "29.99€",
+                "fecha_ingreso": "2023-07-16",
+                "stock": "50",
+                "_codigo": "002",
+                "_categoria": "Ropa",
+                "color": ["negra","blanca","amarillo","roja","azul","negra","verde","negra","blanca","blanca","negra","blanca","amarillo","roja","azul","negra","verde","negra","blanca","blanca","negra","blanca","amarillo","roja","azul","negra","verde","negra","blanca","blanca","negra","blanca","amarillo","roja","azul","negra","verde","negra","blanca","blanca","negra","blanca","amarillo","roja","azul","negra","verde","negra","blanca","blanca"]
+             },
+             {
+                "nombre": "Lámpara",
+                "precio": "39.99€",
+                "fecha_ingreso": "2023-07-17",
+                "stock": "20",
+                "_codigo": "003",
+                "_categoria": "Hogar",
+                "color": ["roja","roja","roja","blanca","blanca","azul","amarilla","azul","amarilla","azul","roja","roja","roja","blanca","blanca","azul","amarilla","azul","amarilla","azul"]
+             },
+             {
+                "nombre": "Meta Quest 3",
+                "precio": "349.99€",
+                "fecha_ingreso": "2024-01-12",
+                "stock": "2",
+                "_codigo": "004",
+                "_categoria": "Videojuegos",
+                "color": ["blanco","blanco"]
+             }
+          ]
+       }
+    }
+
+ }

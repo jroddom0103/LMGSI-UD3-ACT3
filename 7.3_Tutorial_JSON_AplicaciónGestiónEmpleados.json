@@ -1,0 +1,46 @@
+{
+   "empleados": {
+      "empleado": [
+         {
+            "nombre": "John",
+            "apellido": "Doe",
+            "sexo":"H",
+            "fecha_nacimiento": "1985-05-20",
+            "edad":"38",
+            "puesto": "Gerente de Proyectos",
+            "departamento": "Desarrollo",
+            "_numero": "001"
+         },
+         {
+            "nombre": "Jane",
+            "apellido": "Smith",
+            "sexo":"M",
+            "fecha_nacimiento": "1990-09-15",
+            "edad":"33",
+            "puesto": "Analista de Datos",
+            "departamento": "Análisis",
+            "_numero": "002"
+         },
+         {
+            "nombre": "Michael",
+            "apellido": "Johnson",
+            "sexo":"H",
+            "fecha_nacimiento": "1988-12-10",
+            "edad":"32",
+            "puesto": "Programador",
+            "departamento": "Desarrollo",
+            "_numero": "003"
+         },
+         {
+            "nombre": "Jessica",
+            "apellido": "Stein",
+            "sexo":"M",
+            "fecha_nacimiento": "1975-02-8",
+            "edad":"47",
+            "puesto": "Diseñadora de Software",
+            "departamento": "Diseño",
+            "_numero": "004"
+         }
+      ]
+   }
+}

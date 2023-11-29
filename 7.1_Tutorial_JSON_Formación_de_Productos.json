@@ -1,0 +1,42 @@
+{
+    "productos": [
+      {
+        "nombre": "Camiseta",
+        "id": 1,
+        "precio": 19.99,
+        "disponible": true,
+        "detalles": {
+          "color": "Rojo",
+          "talla": "M",
+          "marca":"Lacoste",
+          "tienda":1
+        }
+      },
+      {
+        "nombre": "Pantalón",
+        "id": 2,
+        "precio": 29.99,
+        "disponible": false,
+        "detalles": {
+          "color": "Azul",
+          "talla": "L",
+          "marca": "Frame",
+          "tienda": 1
+          
+        }
+      },
+      {
+        "nombre": "Gorra",
+        "id": 3,
+        "precio": 9.99,
+        "disponible": true,
+        "detalles": {
+          "color": "Verde",
+          "talla": "XL",
+          "marca": "New Era",
+          "tienda": 2
+          
+        }
+      }
+    ]
+}
